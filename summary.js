@@ -65,3 +65,4 @@ function sudHisab(amount){
 }
 
 console.log(sudHisab(100000))
+
